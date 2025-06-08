@@ -17,7 +17,7 @@ public class SmartTv {
     }
     public void diminuirVolume(){
         this.volume--;
-        System.out.println("Diminuindo o volume para: "+ this.volume);
+        System.out.println("Diminuindo o volume para:"+ this.volume);
     }
 
     public void aumentarCanal(){
